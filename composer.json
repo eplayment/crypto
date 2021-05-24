@@ -1,5 +1,5 @@
 {
-    "name": "spatie/crypto",
+    "name": "eplayment/laravel-crypto-pkg",
     "description": "Encrypting and signing data using private/public keys",
     "keywords": [
         "spatie",
