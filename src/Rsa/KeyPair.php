@@ -12,7 +12,7 @@ class KeyPair
 
     public function __construct(
         string $digestAlgorithm = OPENSSL_ALGO_SHA512,
-        int $privateKeyBits = 4096,
+        int $privateKeyBits = 2048,
         int $privateKeyType = OPENSSL_KEYTYPE_RSA
     ) {
         $this->privateKeyType = $privateKeyType;
